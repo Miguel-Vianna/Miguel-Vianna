@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Miguel Vianna
+# 👨‍💻 Miguel Vianna
 
 **`Engenheiro de Software`**
 
@@ -59,5 +59,3 @@ Me chamo Miguel Carvalho Vianna, tenho 18 anos e sou do interior do Rio de Janei
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
