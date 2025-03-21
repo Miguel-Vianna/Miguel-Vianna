@@ -30,7 +30,7 @@ Me chamo Miguel Carvalho Vianna, tenho 18 anos e sou do interior do Rio de Janei
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://img.icons8.com/color/200/amazon-web-services.png)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://img.icons8.com/color/200/amazon-web-services.png" 
 />
 <img 
     align="left" 
