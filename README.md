@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software`**
 
-Me chamo Miguel Carvalho Vianna, tenho 18 anos e sou do interior do Rio de Janeiro, porém, atualmente moro em Niterói. Concluí o ensino médio no IFF, com o curso técnico em automação industrial. Atualmente, estou cursando Sistemas de Informação na UFF. Sou apaixonado por tecnologia e sempre tive o sonho de trabalhar com algo que envolvesse tecnologia.
+Me chamo Miguel Carvalho Vianna, tenho 19 anos e sou do interior do Rio de Janeiro, porém, atualmente moro em Niterói. Concluí o ensino médio no IFF, com o curso técnico em automação industrial. Atualmente, estou cursando Sistemas de Informação na UFF. Sou apaixonado por tecnologia e sempre tive o sonho de trabalhar com algo que envolvesse tecnologia.
 
 ---
 
