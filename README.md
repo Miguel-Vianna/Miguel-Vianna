@@ -34,7 +34,7 @@ Me chamo **Miguel Carvalho Vianna**, tenho 20 anos e moro em Niterói/RJ.
 ### 📫 Como entrar em contato
  
 <p align="left">
-  <a href="miguelcvianna0407@gmail.com">
+  <a href="mailto:miguelcvianna0407@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/miguel-vianna04/">
