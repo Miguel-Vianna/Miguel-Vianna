@@ -1,53 +1,62 @@
-# 👨‍💻 Miguel Vianna
-
-**`Engenheiro de Software`**
-
-Me chamo Miguel Carvalho Vianna, tenho 20 anos e atualmente moro em Niterói. Concluí o ensino médio no IFF, com o curso técnico em Automação Industrial. Hoje em dia, estou cursando Sistemas de Informação na UFF. Sou apaixonado por tecnologia e sempre tive o sonho de trabalhar com algo que envolvesse tecnologia.
-
+<h1 align="center">Olá, eu sou o Miguel Vianna 👋</h1>
+<h3 align="center">Estudante de Sistemas de Informação | Futuro Engenheiro de Software</h3>
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Buscando+oportunidade+de+est%C3%A1gio+em+TI;Apaixonado+por+tecnologia+desde+sempre;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+</p>
 ---
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="C:\Users\Usuario\Downloads\database.png" 
-/>
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
+ 
+### 🙋‍♂️ Sobre mim
+ 
+Me chamo **Miguel Carvalho Vianna**, tenho 20 anos e moro em Niterói/RJ.
+ 
+- 🎓 Concluí o ensino médio no **IFF**, com curso técnico em **Automação Industrial**
+- 💻 Atualmente curso **Sistemas de Informação** na **UFF**
+- 🚀 Sou apaixonado por tecnologia e busco minha primeira oportunidade como **estagiário** na área
+- 📚 Estou sempre estudando e evoluindo minhas habilidades técnicas
+- 🎯 Meu objetivo é ingressar em uma equipe onde eu possa aprender, contribuir e crescer como desenvolvedor
+---
+ 
+### 🤖 Tecnologias e Ferramentas
+ 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</p>
+> 💡 Se você tiver outras tecnologias que já usou (mesmo que só em estudos/projetos pessoais, ex: HTML, CSS, JavaScript, Python, VS Code, GitHub, Postman, IntelliJ etc.), me avise que eu adiciono os ícones aqui também — isso deixa a seção mais completa para recrutadores.
+ 
+---
+ 
+### 📊 Estatísticas do GitHub
+ 
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" />
+</p>
+> ⚠️ Troque `SEU_USUARIO` pelo seu nome de usuário do GitHub nos dois links acima.
+ 
+---
+ 
+### 📫 Como entrar em contato
+ 
+<p align="left">
+  <a href="mailto:SEU_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+> ⚠️ Substitua `SEU_EMAIL`, `SEU_LINKEDIN` e `SEU_USUARIO` pelos seus dados reais.
+ 
+---
+ 
+<p align="center">
+  <i>Aberto a oportunidades de estágio na área de desenvolvimento de software 🚀</i>
+</p>
