@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Buscando+oportunidade+de+est%C3%A1gio+em+TI;Apaixonado+por+tecnologia+desde+sempre;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
----
+
  
 ### 🙋‍♂️ Sobre mim
  
