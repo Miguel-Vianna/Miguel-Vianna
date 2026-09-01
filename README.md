@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Miguel Vianna 👋</h1>
-<h3 align="center">Estudante de Sistemas de Informação | Futuro Engenheiro de Software</h3>
+<h3 align="center">Desenvolvedor de Software</h3>
  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Buscando+oportunidade+de+est%C3%A1gio+em+TI;Apaixonado+por+tecnologia+desde+sempre;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
@@ -26,8 +26,7 @@ Me chamo **Miguel Carvalho Vianna**, tenho 20 anos e moro em Niterói/RJ.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
-> 💡 Se você tiver outras tecnologias que já usou (mesmo que só em estudos/projetos pessoais, ex: HTML, CSS, JavaScript, Python, VS Code, GitHub, Postman, IntelliJ etc.), me avise que eu adiciono os ícones aqui também — isso deixa a seção mais completa para recrutadores.
- 
+
 ---
  
 ### 📊 Estatísticas do GitHub
@@ -43,17 +42,13 @@ Me chamo **Miguel Carvalho Vianna**, tenho 20 anos e moro em Niterói/RJ.
 ### 📫 Como entrar em contato
  
 <p align="left">
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="miguelcvianna0407@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/miguel-vianna04/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
-> ⚠️ Substitua `SEU_EMAIL`, `SEU_LINKEDIN` e `SEU_USUARIO` pelos seus dados reais.
  
 ---
  
