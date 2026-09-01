@@ -34,8 +34,8 @@ Me chamo **Miguel Carvalho Vianna**, tenho 20 anos e moro em Niterói/RJ.
 ### 📊 Estatísticas do GitHub
  
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Miguel-Vianna&show_icons=true&theme=default&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Vianna&layout=compact&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MiguelVianna&show_icons=true&theme=default&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelVianna&layout=compact&hide_border=true" />
 </p>
  
 ---
